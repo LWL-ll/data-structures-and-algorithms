@@ -18,7 +18,10 @@
     <ClCompile Include="data-structures\linear\array\顺序表.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="查找倒数第k个值.c">
+    <ClCompile Include="exercises\查找两个单链表的第一个公共节点.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\查找倒数第k个值.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

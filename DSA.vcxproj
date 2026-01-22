@@ -20,7 +20,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="data-structures\linear\array\顺序表.c" />
-    <ClCompile Include="查找倒数第k个值.c" />
+    <ClCompile Include="exercises\查找两个单链表的第一个公共节点.c" />
+    <ClCompile Include="exercises\查找倒数第k个值.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
