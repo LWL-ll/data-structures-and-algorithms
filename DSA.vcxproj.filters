@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="顺序表.c">
+    <ClCompile Include="data-structures\linear\array\顺序表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="查找倒数第k个值.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
