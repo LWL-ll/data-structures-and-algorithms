@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -20,6 +20,13 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="data-structures\linear\array\顺序表.c" />
+    <ClCompile Include="data-structures\linear\linked-list\单链表.c" />
+    <ClCompile Include="data-structures\linear\linked-list\双向链表.c" />
+    <ClCompile Include="data-structures\linear\linked-list\循环链表（找到环入口）.c" />
+    <ClCompile Include="data-structures\linear\queue\队列.c" />
+    <ClCompile Include="data-structures\linear\stack\栈.c" />
+    <ClCompile Include="exercises\删除相同节点（单链表）.c" />
+    <ClCompile Include="exercises\单链表交错重组.c" />
     <ClCompile Include="exercises\查找两个单链表的第一个公共节点.c" />
     <ClCompile Include="exercises\查找倒数第k个值.c" />
   </ItemGroup>

@@ -24,5 +24,26 @@
     <ClCompile Include="exercises\查找倒数第k个值.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="data-structures\linear\linked-list\单链表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data-structures\linear\linked-list\双向链表.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data-structures\linear\linked-list\循环链表（找到环入口）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data-structures\linear\queue\队列.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="data-structures\linear\stack\栈.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\单链表交错重组.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="exercises\删除相同节点（单链表）.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
